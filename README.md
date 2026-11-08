@@ -20,4 +20,4 @@ The User model uses a Role enum with two allowed values: `PATRON` and `LIBRARIAN
 
 ### Database Choice
 
-PostgreSQL was selected as the relational database because the library system contains structured data and relationships between users, books, and genres. Prisma provides type-safe database access and schema management.
+PostgreSQL was selected as the relational database because the library system contains structured data and relationships between users, books and genres. Prisma provides type-safe database access and schema management.
